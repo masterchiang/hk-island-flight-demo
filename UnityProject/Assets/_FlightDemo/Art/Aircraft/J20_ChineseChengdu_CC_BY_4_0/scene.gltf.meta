@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 0dc85c354a3165247abd036033c5b98c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    texturesReadable: 0
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 0
+    originalUri: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\scene.bin
+    assetPath: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\scene.bin
+  - type: 1
+    originalUri: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\27_66_0ec19d06f12efab_4_baseColor.jpeg
+    assetPath: 
+  - type: 1
+    originalUri: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\Material_shiny12_baseColor.jpeg
+    assetPath: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\Material_shiny12_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\Material_shiny12_specularf0.png
+    assetPath: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\Material_shiny12_specularf0.png
+  - type: 1
+    originalUri: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\Materiala12_baseColor.jpeg
+    assetPath: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\Materiala12_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\glass_meters_baseColor.jpeg
+    assetPath: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\glass_meters_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\27_66_0ec19d06f12efab_baseColor.jpeg
+    assetPath: 
+  - type: 1
+    originalUri: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\DISPLAY_2_baseColor.jpeg
+    assetPath: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\DISPLAY_2_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\Material_shiny12_0_baseColor.jpeg
+    assetPath: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\Material_shiny12_0_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\Mirror_01_baseColor.jpeg
+    assetPath: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\Mirror_01_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\Leather_Red_Brown_1_baseColor.jpeg
+    assetPath: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\Leather_Red_Brown_1_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\DIISPLAY_baseColor.jpeg
+    assetPath: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\DIISPLAY_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\hud_2_baseColor.jpeg
+    assetPath: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\hud_2_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\Material12shiny_hud_baseColor.jpeg
+    assetPath: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\Material12shiny_hud_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\HUD_Glass_baseColor.jpeg
+    assetPath: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\HUD_Glass_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\HUD_Glass_metallicRoughness.png
+    assetPath: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\HUD_Glass_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\Translucent_Glass_Gold_3_baseColor.jpeg
+    assetPath: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\Translucent_Glass_Gold_3_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\Leather_Red_Brown_baseColor.jpeg
+    assetPath: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\Leather_Red_Brown_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\seat_buis_5_baseColor.jpeg
+    assetPath: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\seat_buis_5_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\Metal_Corrugated_Shiny_1_baseColor.jpeg
+    assetPath: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\Metal_Corrugated_Shiny_1_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\seat_buis_1_baseColor.jpeg
+    assetPath: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\seat_buis_1_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\seat_buis_4_baseColor.jpeg
+    assetPath: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\seat_buis_4_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\stof1_baseColor.jpeg
+    assetPath: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\stof1_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\stof1_2_baseColor.jpeg
+    assetPath: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\stof1_2_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\KOORT_baseColor.jpeg
+    assetPath: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\KOORT_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\CHAIR_baseColor.jpeg
+    assetPath: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\CHAIR_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\Suede_Brown_baseColor.jpeg
+    assetPath: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\Suede_Brown_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\Materiala12_3_baseColor.jpeg
+    assetPath: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\Materiala12_3_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\auto_84_baseColor.jpeg
+    assetPath: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\auto_84_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\6TOJLMO200AH0001_baseColor.jpeg
+    assetPath: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\6TOJLMO200AH0001_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\material_baseColor.jpeg
+    assetPath: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\material_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\material_78_baseColor.jpeg
+    assetPath: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\material_78_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\material_81_baseColor.jpeg
+    assetPath: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\material_81_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\6TOJLMO200AH0001_5_baseColor.jpeg
+    assetPath: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\6TOJLMO200AH0001_5_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\material_83_baseColor.jpeg
+    assetPath: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\material_83_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\material_84_baseColor.jpeg
+    assetPath: Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\material_84_baseColor.jpeg
+  reportItems:
+  - type: 2
+    code: 20
+    messages:
+    - KHR_materials_specular
+  - type: 0
+    code: 43
+    messages:
+    - Couldn't load texture at Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\27_66_0ec19d06f12efab_4_baseColor.jpeg
+    - Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\27_66_0ec19d06f12efab_4_baseColor.jpeg
+  - type: 0
+    code: 43
+    messages:
+    - Couldn't load texture at Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\27_66_0ec19d06f12efab_baseColor.jpeg
+    - Assets\_FlightDemo\Art\Aircraft\J20_ChineseChengdu_CC_BY_4_0\textures\27_66_0ec19d06f12efab_baseColor.jpeg
+  - type: 0
+    code: 45
+    messages:
+    - 0
+  - type: 0
+    code: 45
+    messages:
+    - 5

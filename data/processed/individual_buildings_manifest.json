@@ -1,0 +1,28 @@
+{
+  "generated_at": "2026-09-30",
+  "selection_rule": "named non-residential/civic/institutional >=15m; unnamed explicit non-residential >=35m; tall ambiguous OSM yes >=70m",
+  "count": 1490,
+  "profiles": {
+    "stepped_glass": 263,
+    "tapered_crown": 270,
+    "slab": 307,
+    "rounded_taper": 254,
+    "stepped_civic": 150,
+    "spire": 237,
+    "ifc_tapered": 2,
+    "round_window_slab": 1,
+    "cantilever": 1,
+    "triangular_spire": 2,
+    "cylinder": 3
+  },
+  "sketchfab_landmarks": [
+    {
+      "name": "Bank of China Tower",
+      "uid": "8e6025af515648e9a0ceb85018d5e2de",
+      "author": "angeloraffaelecatalano",
+      "license": "CC Attribution",
+      "target_size_m": 367,
+      "status": "imported, aligned, primary; previous lower-detail duplicate removed"
+    }
+  ]
+}

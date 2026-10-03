@@ -1,0 +1,49 @@
+# ---------- Unity 生成目录（不入库） ----------
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+Captures/
+Screenshots/
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+sysinfo.txt
+
+# ---------- IDE / 编辑器 ----------
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.tmp
+*.bak
+
+# ---------- 操作系统 ----------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---------- 构建产物与中间导出 ----------
+/output/
+/DEMO成品/
+*.blend1
+
+# ---------- 本仓库刻意剔除的版权素材 ----------
+# 说明见「缺失素材与补回说明.md」。
+# 背景音乐《东方之珠》为第三方版权作品，未随仓库提供。
+# 若要换成 CC0 / 自制音乐，请把下面这行注释掉再提交。
+UnityProject/Assets/_FlightDemo/Resources/PearlOfTheOrient.mp3

@@ -1,0 +1,252 @@
+[
+  {
+    "name": "HSBC Main Building",
+    "status": "bespoke_B2_integrated_2026-10-01",
+    "source_script": "build_custom_landmarks.py"
+  },
+  {
+    "name": "Two International Finance Centre",
+    "status": "building_bespoke_B1",
+    "source_script": "build_custom_landmarks.py"
+  },
+  {
+    "name": "One International Finance Centre",
+    "status": "bespoke_B2_integrated_2026-10-01",
+    "source_script": "build_custom_landmarks.py"
+  },
+  {
+    "name": "Central Plaza",
+    "status": "building_bespoke_B1",
+    "source_script": "build_custom_landmarks.py"
+  },
+  {
+    "name": "The Center",
+    "status": "bespoke_B2_integrated_2026-10-01",
+    "source_script": "build_custom_landmarks.py"
+  },
+  {
+    "name": "One Island East",
+    "status": "bespoke_B2_integrated_2026-10-01",
+    "source_script": "build_custom_landmarks.py"
+  },
+  {
+    "name": "Hopewell Centre",
+    "status": "bespoke_B2_integrated_2026-10-01",
+    "source_script": "build_custom_landmarks.py"
+  },
+  {
+    "name": "One Taikoo Place",
+    "status": "needs_reference_and_bespoke_rebuild",
+    "source_script": "build_custom_landmarks.py"
+  },
+  {
+    "name": "Two Taikoo Place",
+    "status": "needs_reference_and_bespoke_rebuild",
+    "source_script": "build_custom_landmarks.py"
+  },
+  {
+    "name": "One Exchange Square",
+    "status": "bespoke_B2_integrated_2026-10-01",
+    "source_script": "build_custom_landmarks.py"
+  },
+  {
+    "name": "Two Exchange Square",
+    "status": "bespoke_B2_integrated_2026-10-01",
+    "source_script": "build_custom_landmarks.py"
+  },
+  {
+    "name": "Three Exchange Square",
+    "status": "bespoke_B2_integrated_2026-10-01",
+    "source_script": "build_custom_landmarks.py"
+  },
+  {
+    "name": "Jardine House",
+    "status": "building_bespoke_B1",
+    "source_script": "build_custom_landmarks.py"
+  },
+  {
+    "name": "Lippo Centre Tower 1",
+    "status": "building_bespoke_B1",
+    "source_script": "build_custom_landmarks.py"
+  },
+  {
+    "name": "Lippo Centre Tower 2",
+    "status": "building_bespoke_B1",
+    "source_script": "build_custom_landmarks.py"
+  },
+  {
+    "name": "Convention Plaza Office Tower",
+    "status": "needs_reference_and_bespoke_rebuild",
+    "source_script": "build_custom_landmarks.py"
+  },
+  {
+    "name": "The Henderson",
+    "status": "bespoke_B2_integrated_2026-10-01",
+    "source_script": "build_custom_landmarks.py"
+  },
+  {
+    "name": "Sun Hung Kai Centre",
+    "status": "needs_reference_and_bespoke_rebuild",
+    "source_script": "build_custom_landmarks.py"
+  },
+  {
+    "name": "Cheung Kong Center II",
+    "status": "needs_reference_and_bespoke_rebuild",
+    "source_script": "build_custom_landmarks.py"
+  },
+  {
+    "name": "ICBC Tower",
+    "status": "needs_reference_and_bespoke_rebuild",
+    "source_script": "build_custom_landmarks.py"
+  },
+  {
+    "name": "PCCW Tower",
+    "status": "needs_reference_and_bespoke_rebuild",
+    "source_script": "build_custom_landmarks.py"
+  },
+  {
+    "name": "Admiralty Centre Tower 1",
+    "status": "needs_reference_and_bespoke_rebuild",
+    "source_script": "build_custom_landmarks.py"
+  },
+  {
+    "name": "CITIC Tower",
+    "status": "needs_reference_and_bespoke_rebuild",
+    "source_script": "build_custom_landmarks.py"
+  },
+  {
+    "name": "Great Eagle Centre",
+    "status": "needs_reference_and_bespoke_rebuild",
+    "source_script": "build_custom_landmarks.py"
+  },
+  {
+    "name": "Harbour Centre",
+    "status": "needs_reference_and_bespoke_rebuild",
+    "source_script": "build_custom_landmarks.py"
+  },
+  {
+    "name": "Highcliff",
+    "status": "bespoke_B2_integrated_2026-10-01",
+    "source_script": "build_landmark_batch2.py"
+  },
+  {
+    "name": "The Summit",
+    "status": "needs_reference_and_bespoke_rebuild",
+    "source_script": "build_landmark_batch2.py"
+  },
+  {
+    "name": "Two Pacific Place",
+    "status": "needs_reference_and_bespoke_rebuild",
+    "source_script": "build_landmark_batch2.py"
+  },
+  {
+    "name": "Lee Garden One",
+    "status": "needs_reference_and_bespoke_rebuild",
+    "source_script": "build_landmark_batch2.py"
+  },
+  {
+    "name": "Champion Tower",
+    "status": "needs_reference_and_bespoke_rebuild",
+    "source_script": "build_landmark_batch2.py"
+  },
+  {
+    "name": "High Block",
+    "status": "needs_reference_and_bespoke_rebuild",
+    "source_script": "build_landmark_batch2.py"
+  },
+  {
+    "name": "Queensway Government Offices High Block",
+    "status": "needs_reference_and_bespoke_rebuild",
+    "source_script": "build_landmark_batch2.py"
+  },
+  {
+    "name": "Conrad Hong Kong",
+    "status": "needs_reference_and_bespoke_rebuild",
+    "source_script": "build_landmark_batch2.py"
+  },
+  {
+    "name": "Hysan Place",
+    "status": "needs_reference_and_bespoke_rebuild",
+    "source_script": "build_landmark_batch2.py"
+  },
+  {
+    "name": "AIA Central",
+    "status": "needs_reference_and_bespoke_rebuild",
+    "source_script": "build_landmark_batch2.py"
+  },
+  {
+    "name": "Three Pacific Place",
+    "status": "needs_reference_and_bespoke_rebuild",
+    "source_script": "build_landmark_batch2.py"
+  },
+  {
+    "name": "Revenue Tower",
+    "status": "needs_reference_and_bespoke_rebuild",
+    "source_script": "build_landmark_batch2.py"
+  },
+  {
+    "name": "Immigration Tower",
+    "status": "needs_reference_and_bespoke_rebuild",
+    "source_script": "build_landmark_batch2.py"
+  },
+  {
+    "name": "China Resources Building",
+    "status": "needs_reference_and_bespoke_rebuild",
+    "source_script": "build_landmark_batch2.py"
+  },
+  {
+    "name": "Far East Finance Centre",
+    "status": "needs_reference_and_bespoke_rebuild",
+    "source_script": "build_landmark_batch2.py"
+  },
+  {
+    "name": "JW Marriott Hotel Hong Kong",
+    "status": "needs_reference_and_bespoke_rebuild",
+    "source_script": "build_landmark_batch2.py"
+  },
+  {
+    "name": "One Pacific Place",
+    "status": "needs_reference_and_bespoke_rebuild",
+    "source_script": "build_landmark_batch2.py"
+  },
+  {
+    "name": "Gloucester Tower",
+    "status": "needs_reference_and_bespoke_rebuild",
+    "source_script": "build_landmark_batch2.py"
+  },
+  {
+    "name": "Hopewell Centre II",
+    "status": "needs_reference_and_bespoke_rebuild",
+    "source_script": "build_landmark_batch2.py"
+  },
+  {
+    "name": "New World Tower",
+    "status": "needs_reference_and_bespoke_rebuild",
+    "source_script": "build_landmark_batch2.py"
+  },
+  {
+    "name": "Dorset House",
+    "status": "needs_reference_and_bespoke_rebuild",
+    "source_script": "build_landmark_batch2.py"
+  },
+  {
+    "name": "LKF Tower",
+    "status": "needs_reference_and_bespoke_rebuild",
+    "source_script": "build_landmark_batch2.py"
+  },
+  {
+    "name": "Renaissance Hong Kong Harbour View Hotel",
+    "status": "needs_reference_and_bespoke_rebuild",
+    "source_script": "build_landmark_batch2.py"
+  },
+  {
+    "name": "Dah Sing Financial Centre",
+    "status": "needs_reference_and_bespoke_rebuild",
+    "source_script": "build_landmark_batch2.py"
+  },
+  {
+    "name": "Bank of America Tower",
+    "status": "needs_reference_and_bespoke_rebuild",
+    "source_script": "build_landmark_batch2.py"
+  }
+]
