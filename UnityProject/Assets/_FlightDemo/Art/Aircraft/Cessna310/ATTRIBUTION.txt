@@ -1,0 +1,8 @@
+Cessna 310 Airplane - Low Poly
+Author: BorealRiver
+Source: https://sketchfab.com/3d-models/cessna-310-airplane-low-poly-bbf73d06537c4a2ba86b96a3b97209c1
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+License text: https://creativecommons.org/licenses/by/4.0/
+
+Adapted for HK Flight Demo on 2026-10-10: centered transforms, preserved textured low-poly geometry, independent left/right propeller pivots and animated rotation; Unity import/export conversion. The author does not endorse this demo.
+This aircraft asset is CC BY 4.0, not covered by any separate project code license. Retain this credit when redistributing.

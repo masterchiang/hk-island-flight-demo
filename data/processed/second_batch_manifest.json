@@ -1,0 +1,86 @@
+{
+  "revision": "2026-10-01-B2-final2",
+  "blend": "HKI_Holographic_Atlas.blend",
+  "backup_before_b2": "output/HKI_before_B2_integration_20261001.blend",
+  "targets": [
+    {
+      "name": "HSBC Main Building",
+      "osm_id": "590814694",
+      "script": "scripts/agent_hsbc_b2.py",
+      "research": "research/landmarks_20261001/hsbc_b2.md",
+      "profile": "5 suspended office villages, 8 masts, 5 double-height truss bands, atrium void"
+    },
+    {
+      "name": "Hopewell Centre",
+      "osm_id": "2762122396",
+      "script": "scripts/agent_hopewell_b2.py",
+      "research": "research/landmarks_20261001/hopewell_b2.md",
+      "profile": "36-sided cylindrical tower, vertical fins, multi-level podium, crown ring"
+    },
+    {
+      "name": "The Center",
+      "osm_id": "296457776",
+      "script": "scripts/agent_the_center_b2.py",
+      "research": "research/landmarks_20261001/the_center_b2.md",
+      "profile": "16-sided tapered tower, luminous vertical bands, stepped crown"
+    },
+    {
+      "name": "One International Finance Centre",
+      "osm_id": "297109890",
+      "script": "scripts/agent_ifc1_b2.py",
+      "research": "research/landmarks_20261001/ifc1_b2.md",
+      "profile": "beveled glass tower with taper, floor bands, crown; GIS-scale correction applied"
+    },
+    {
+      "name": "One Island East",
+      "osm_id": "200915642",
+      "script": "scripts/agent_one_island_east_b2.py",
+      "research": "research/landmarks_20261001/one_island_east_b2.md",
+      "profile": "faceted blue-glass shaft, rounded/chamfered corners, floor bands, vertical fins"
+    },
+    {
+      "name": "The Henderson",
+      "osm_id": "52869536",
+      "script": "scripts/agent_henderson_b2.py",
+      "research": "research/landmarks_20261001/henderson_b2.md",
+      "profile": "continuous curved/elliptical glass tower, tapered crown; fitted to GIS envelope"
+    },
+    {
+      "name": "One Exchange Square",
+      "osm_id": "65061120",
+      "script": "scripts/agent_exchange_highcliff_b2.py",
+      "research": "research/landmarks_20261001/exchange_highcliff_b2.md",
+      "profile": "footprint-preserving tiered office tower and stepped crown"
+    },
+    {
+      "name": "Two Exchange Square",
+      "osm_id": "297109906",
+      "script": "scripts/agent_exchange_highcliff_b2.py",
+      "research": "research/landmarks_20261001/exchange_highcliff_b2.md",
+      "profile": "footprint-preserving tiered office tower and stepped crown"
+    },
+    {
+      "name": "Three Exchange Square",
+      "osm_id": "297109900",
+      "script": "scripts/agent_exchange_highcliff_b2.py",
+      "research": "research/landmarks_20261001/exchange_highcliff_b2.md",
+      "profile": "footprint-preserving office mass, reduced height/crown"
+    },
+    {
+      "name": "Highcliff",
+      "osm_id": "130515428",
+      "script": "scripts/agent_exchange_highcliff_b2.py",
+      "research": "research/landmarks_20261001/exchange_highcliff_b2.md",
+      "profile": "slender residential tower, GIS footprint orientation, tapered crown"
+    }
+  ],
+  "validation": "data/processed/second_batch_validation.json",
+  "preview": "output/bespoke_B2/b2_central_hero_context.png",
+  "notes": [
+    "All roots aligned to OSM footprint polygon centroid and sampled 25m DTM elevation plus 0.85m clearance.",
+    "Ten model roots verified; matching legacy/rough models hidden, not deleted.",
+    "Bank of China Tower Sketchfab root remains visible with 12 children.",
+    "Facade detail is structured procedural reconstruction, not photogrammetry; rights-restricted reference photographs are not embedded.",
+    "The 8 independent work modules cover 10 buildings; Exchange Square three-tower group and Highcliff share one module."
+  ]
+}
